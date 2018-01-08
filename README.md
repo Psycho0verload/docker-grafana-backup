@@ -17,6 +17,5 @@ There are 2 environment variable that need to be set when the Docker container i
 * GRAFANA_TOKEN
 
 ```
-docker build -t grafana-backup-docker:latest
-docker run -v "/opt/Smarthome/Grafana/backup:/backup" -e GRAFANA_URL=[GRAFANA_URL] -e GRAFANA_TOKEN=[GRAFANA_TOKEN] grafana-backup-docker:latest
+docker run -v "/opt/Smarthome/Grafana/backup:/backup" -e GRAFANA_URL=[GRAFANA_URL] -e GRAFANA_TOKEN=[GRAFANA_TOKEN] Psycho0verload/docker-grafana-backup:latest
 ```
