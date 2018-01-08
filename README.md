@@ -1,4 +1,4 @@
-# grafana-backup-docker
+# docker-grafana-backup
 A Docker container that has https://github.com/ysde/grafana-backup-tool
 
 Much thanks to @ysde for such a great tool!
