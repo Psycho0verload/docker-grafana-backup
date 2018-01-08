@@ -3,6 +3,7 @@ FROM arm32v7/debian
 MAINTAINER Psycho0verload based on Ian D. Rossi
 
 RUN \
+	mkdir -p /backup && \
 	apk -Uuv add groff less python py-pip git && \
 	pip install requests && \
 	apk --purge -v del py-pip && \
