@@ -1,3 +1,7 @@
+# INFO
+This is forked from https://github.com/aimtheory/grafana-backup-docker
+
+
 # docker-grafana-backup
 A Docker container that has https://github.com/ysde/grafana-backup-tool
 
