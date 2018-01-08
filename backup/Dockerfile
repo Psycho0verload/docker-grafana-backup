@@ -1,4 +1,4 @@
-FROM hypriot/rpi-alpine-scratch
+FROM arm32v7/debian
 
 MAINTAINER Psycho0verload based on Ian D. Rossi
 
