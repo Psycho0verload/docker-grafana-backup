@@ -1,4 +1,4 @@
-FROM arm32v7/debian
+FROM psycho0verload/armv7hf-debian-qemu
 
 MAINTAINER Psycho0verload based on Ian D. Rossi
 
