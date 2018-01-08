@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-MAINTAINER Ian D. Rossi <ian.d.rossi@aimtheory.com>
+MAINTAINER Psycho0verload based on Ian D. Rossi
 
 RUN \
 	mkdir -p /aws && \
