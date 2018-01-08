@@ -1,4 +1,4 @@
-FROM psycho0verload/armv7hf-debian-qemu
+FROM container4armhf/armhf-alpine
 
 MAINTAINER Psycho0verload based on Ian D. Rossi
 
